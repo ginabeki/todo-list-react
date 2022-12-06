@@ -6,8 +6,6 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -15,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[react-todo-app\] ](#-react-todo-app-)
+- [📖 \[todo-list-react\] ](#-todo-list-react-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -33,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [react-todo-app] <a name="about-project"></a>
+# 📖 [todo-list-react] <a name="about-project"></a>
 
 > This is a react to do app that allows users to add, delete, submit and edit items.
       To edit items, simply double click on it.
@@ -85,7 +83,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://ginabeki.github.io/react-todo-app/)
+- [Live Demo Link](https://ginabeki.github.io/todo-list-react/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +107,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd PATH
-  git clone git@github.com:ginabeki/react-todo-app.git
+  git clone git@github.com:ginabeki/todo-list-react.git
 ```
 
 
